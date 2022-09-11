@@ -41,6 +41,10 @@ Software, apps and scripts for expanding the capabilities of [TidalCycles](https
 - [SuperDirt](https://github.com/musikinformatik/superdirt) - the 'default' way to make sound with TidalCycles
 - [Dirt](https://github.com/tidalcycles/dirt) - the original Tidal sampler, still works well, especially on older/lower-powered computers
 
+###
+
+- [Tidal looper](https://github.com/thgrund/tidal-looper) - live sampling in superdirt/tidalcycles
+
 ### Visualisation
 
 - 
