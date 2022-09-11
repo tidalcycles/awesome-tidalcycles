@@ -8,6 +8,8 @@
 - [Documentation](#documentation)
 - [Community](#community)
 - [Software](#software)
+- [Videos](#videos)
+- [Related lists](#related-lists)
 
 ## Documentation
 
