@@ -10,6 +10,7 @@
 - [Software](#software)
 - [Videos](#videos)
 - [Related lists](#related-lists)
+- [Contribute](#contribute)
 
 ## Documentation
 
