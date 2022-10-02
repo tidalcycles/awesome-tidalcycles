@@ -44,6 +44,8 @@ Software, apps and scripts for expanding the capabilities of [TidalCycles](https
 ###
 
 - [Tidal looper](https://github.com/thgrund/tidal-looper) - live sampling in superdirt/tidalcycles
+- [TidalVST](https://github.com/thgrund/TidalVST) - Using Supercolliders [VSTPluginController](https://git.iem.at/pd/vstplugin/-/releases) to control VST plugins (synths only) with TidalCycles.
+
 
 ### Visualisation
 
