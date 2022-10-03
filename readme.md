@@ -8,6 +8,7 @@
 - [Documentation](#documentation)
 - [Community](#community)
 - [Software](#software)
+- [Samples](#samples)
 - [Videos](#videos)
 - [Related lists](#related-lists)
 - [Contribute](#contribute)
@@ -59,6 +60,14 @@ Software, apps and scripts for expanding the capabilities of [TidalCycles](https
 - [Kidal](https://gitlab.com/ndr_brt/kidal) - a 'port' of Tidal to Kotlin
 - [Strudel](https://strudel.tidalcycles.org) - an active 'port' of Tidal to Javascript
 - [Vortex](https://github.com/tidalcycles/vortex/) - an active 'port' of Tidal to Python
+
+## Samples
+
+Sample packs ready to be used with TidalCycles
+
+- [Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples) - the default SuperDirt samples
+- [Clean-Samples](https://github.com/tidalcycles/Clean-Samples) - samples with clear provenance and license info (generally a permissive creative commons licence) managed by the community
+- [tidal-drum-machines](https://github.com/ritchse/tidal-drum-machines) - A huge collection of drum machines for SuperDirt
 
 ## Videos
 
