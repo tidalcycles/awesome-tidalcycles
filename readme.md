@@ -42,8 +42,8 @@ Software, apps and scripts for expanding the capabilities of [TidalCycles](https
 - [SuperDirt](https://github.com/musikinformatik/superdirt) - the 'default' way to make sound with TidalCycles
 - [Dirt](https://github.com/tidalcycles/dirt) - the original Tidal sampler, still works well, especially on older/lower-powered computers
 
-###
-
+### SuperDirt extensions
+- [SuperDirtMixer](https://github.com/thgrund/SuperDirtMixer) - a mixer ui that helps to realize tonal depth, clean frequency separation and a stereo panorama in SuperDirt.
 - [Tidal looper](https://github.com/thgrund/tidal-looper) - live sampling in superdirt/tidalcycles
 - [TidalVST](https://github.com/thgrund/TidalVST) - Using Supercolliders [VSTPluginController](https://git.iem.at/pd/vstplugin/-/releases) to control VST plugins (synths only) with TidalCycles.
 
