@@ -79,6 +79,7 @@ Video archives and key videos related to TidalCycles
 
 ## Related lists
 
+- [Awesome Livecoding](https://github.com/toplap/awesome-livecoding) - The looong list of live coding stuff
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding, Generative Art, Interaction Design, Resources.
 - [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [Awesome Music](https://github.com/ciconia/awesome-music) - A categorized collection of awesome music libraries, tools, frameworks and software.
