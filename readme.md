@@ -59,8 +59,8 @@ Software, apps and scripts for expanding the capabilities of [TidalCycles](https
 - [Estuary](https://estuary.mcmaster.ca/) - web-based network music system, includes-'mini tidal'
 - [Kidal](https://gitlab.com/ndr_brt/kidal) - Tidal port to Kotlin
 - [Piratidal](https://github.com/diegovdc/piratidal) - Tidal port to Clojure
-- [Strudel](https://strudel.tidalcycles.org) - Tidal port to Javascript, with growing web audio and UI ecosysystem
-  - [Jaffle](https://roipoussiere.frama.io/jaffle/) - Strudel via YAML
+- [Strudel](https://strudel.cc) - Tidal port to Javascript, with growing web audio and UI ecosysystem
+- [Jaffle](https://roipoussiere.frama.io/jaffle/) - Strudel via YAML
 - [Tranquility](https://github.com/XiNNiW/tranquility) - Tidal port to Lua
 - [Vortex](https://github.com/tidalcycles/vortex/) - Tidal port to Python
 
