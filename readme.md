@@ -70,7 +70,7 @@ Sample packs ready to be used with TidalCycles
 
 - [Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples) - the default SuperDirt samples
 - [Clean-Samples](https://github.com/tidalcycles/Clean-Samples) - samples with clear provenance and license info (generally a permissive creative commons licence) managed by the community
-- [tidal-drum-machines](https://github.com/ritchse/tidal-drum-machines) - A huge collection of drum machines for SuperDirt
+- [tidal-drum-machines](https://github.com/geikha/tidal-drum-machines) - A huge collection of drum machines for SuperDirt
 
 ## Videos
 
